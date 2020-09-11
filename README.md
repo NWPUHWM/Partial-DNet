@@ -1,1 +1,1 @@
-# Semi-DNet
+# Partial-DNet
